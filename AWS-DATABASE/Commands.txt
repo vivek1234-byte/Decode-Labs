@@ -1,3 +1,5 @@
+mysql.exe -h "PASTE_YOUR_EXACT_ENDPOINT_HERE" -P 3306 -u admin -p
+
 CREATE DATABASE decodelabs;
 USE decodelabs;
 
