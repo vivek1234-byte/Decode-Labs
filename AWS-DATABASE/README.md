@@ -5,13 +5,13 @@ Create a managed cloud database using AWS RDS and connect it using MySQL Workben
 
 ## Services Used
 - AWS RDS (MySQL)
-- MySQL Workbench
+- Command Prompt
 - Python
 - mysql-connector-python
 
 ## Steps Performed
 1. Created AWS RDS MySQL Instance
-2. Connected MySQL Workbench to RDS
+2. Connected using command prompt to RDS
 3. Created Database decodelabs
 4. Created Interns table
 5. Inserted dummy records
