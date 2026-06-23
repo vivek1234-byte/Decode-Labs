@@ -5,7 +5,7 @@ Create a managed cloud database using AWS RDS and connect it using MySQL Workben
 
 ## Services Used
 - AWS RDS (MySQL)
-- MySQL Workbench
+- Command Prompt
 - Python
 - mysql-connector-python
 
