@@ -8,6 +8,7 @@ This project was completed as part of the DecodeLabs Industrial Training Kit (Ba
 - Host the website on AWS S3.
 - Enable public access and static website hosting.
 - Generate a live, shareable URL accessible over the internet.
+- http://vivek-portfolio-2006.s3-website-us-east-1.amazonaws.com
 
 ## Technologies Used
 - HTML5
