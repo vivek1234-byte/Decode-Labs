@@ -1,0 +1,18 @@
+1. Open AWS Console
+2. Open Lambda Service
+3. Create Function
+4. Runtime = Python 3.x
+5. Paste lambda_function.py code
+6. Deploy Function
+7. Create Test Event
+8. Input:
+{
+ "num1":15,
+ "num2":25
+}
+9. Click Test
+10. Verify Output:
+{
+ "Sum":40
+}
+11. Check CloudWatch Logs
