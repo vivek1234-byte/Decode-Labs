@@ -1,0 +1,20 @@
+CREATE DATABASE decodelabs;
+USE decodelabs;
+
+CREATE TABLE Interns (
+ID INT AUTO_INCREMENT PRIMARY KEY,
+Name VARCHAR(100),
+Role VARCHAR(100),
+Email VARCHAR(100)
+);
+
+INSERT INTO Interns(Name,Role,Email)
+VALUES
+('Vivek Prasad','Cloud Intern','vivek@gmail.com'),
+('Rahul Kumar','Backend Intern','rahul@gmail.com'),
+('Aman Singh','DevOps Intern','aman@gmail.com');
+
+SELECT * FROM Interns;
+
+pip install mysql-connector-python
+python connect.py

@@ -1,0 +1,6 @@
+CREATE TABLE Interns (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(100),
+    Role VARCHAR(100),
+    Email VARCHAR(100)
+);
